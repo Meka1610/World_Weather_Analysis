@@ -28,11 +28,11 @@ To enhance the PlanMyTrip app for customers. The use of input statements will fi
 
 **Summary**
 
-INSERT MAP HERE – vacation map
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/111043588/204234578-d8700dc6-4b19-4cab-90f5-34dc2ca401ff.PNG)
 
 Pop-up markers will be displayed for customers. Indicate the current weather as the travel
 
 
-INSERT MAP HERE - Itinerray map
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/111043588/204234580-5ec9afed-6a40-4610-9df5-b60b463c1b8b.PNG)
 
 Itinerary map – shows directions from A to D. Contains detailed information regarding hotel name, city, country, and current weather. 
