@@ -28,6 +28,10 @@ To enhance the PlanMyTrip app for customers. The use of input statements will fi
 
 **Summary**
 
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/111043588/204235379-f1408ca1-2c58-48ff-8e95-c55e6f80bcc4.PNG)
+
+Pop-up markers of all possible locations based off of weather selection determined by customers preference in terms of temp range. This particular range was set between 65 degrees and 90 degrees. 
+
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/111043588/204234578-d8700dc6-4b19-4cab-90f5-34dc2ca401ff.PNG)
 
 Pop-up markers will be displayed for customers. Indicate the current weather as the travel
